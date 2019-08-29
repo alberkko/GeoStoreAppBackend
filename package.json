@@ -1,0 +1,15 @@
+{
+    "name": "rest-shops",
+    "version": "1.0.0",
+    "description": "Node.js Rest Api for Shops Project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "Albert Kokoshi",
+    "license": "ISC"
+}
